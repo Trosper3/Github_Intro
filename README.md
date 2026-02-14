@@ -2,7 +2,7 @@
 Project dedicated to understanding repository setup and rulesets
 
 Instructions to Run
-1. Open Powershell 
+1. Open Powershell / Terminal
 2. Navigate To the Program Directory
 3. Enter bash ./repo_script-1.sh
 4. You should get "You are cool" as a response
